@@ -1,4 +1,14 @@
-### Hi there 👋
+<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" alt="hello there!" />
+
+I'm just having fun here 😉
+
+### If you want to reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ramiro-gordon/?locale=en_US) [![Twitter](https://img.shields.io/badge/Twitter-000000.svg?logo=X&logoColor=white&style=for-the-badge)](https://twitter.com/Rami_Gordon)
+
+## Some of the things I used
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-009EE3?logo=react&logoColor=white&style=for-the-badge) ![Typescript](https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=white&style=for-the-badge) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-E0234E?logo=nestjs&logoColor=white&style=for-the-badge) ![AWS](https://img.shields.io/badge/aws%20services-232F3E?logo=amazon&logoColor=white&style=for-the-badge) ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge) ![Auth0](https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=white&style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge) ![Kubernetes](https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white&style=for-the-badge)
 
 <!--
 **RamiGordon/ramigordon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
