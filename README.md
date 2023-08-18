@@ -2,7 +2,7 @@
 
 I'm just having fun here 😉
 
-### If you want to reach me
+## If you want to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ramiro-gordon/?locale=en_US) [![Twitter](https://img.shields.io/badge/Twitter-000000.svg?logo=X&logoColor=white&style=for-the-badge)](https://twitter.com/Rami_Gordon)
 
